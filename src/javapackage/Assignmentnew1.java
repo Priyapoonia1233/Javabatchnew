@@ -37,9 +37,6 @@ public class Assignmentnew1 {
 
 }
 
-
-
-	
 	}
 
 
